@@ -1,0 +1,4 @@
+.bg-blur {
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    border-radius: 16px;
+}
